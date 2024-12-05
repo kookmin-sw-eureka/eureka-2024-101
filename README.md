@@ -30,27 +30,33 @@
 ## 인터뷰 🙋‍♀️
 ### 보직 교수님
 <image width="400" src="https://github.com/user-attachments/assets/65f4288e-0b50-45a3-a9c4-7c551c660e00">
-<p></p>이경용 교수님
+<p></p>
+  이경용 교수님
   
 ### 3~4학년 담당 교수님
 <image width="400" src="https://github.com/user-attachments/assets/e0b3e67f-437d-4f36-bb46-f4022b0c4c57">
-<p></p>박하명 교수님
+<p></p>
+  박하명 교수님
   
 ### 교수님
 <image width="400" src="https://github.com/user-attachments/assets/c3b4b3ab-21ee-4e2b-b065-dabe438d7b5b">
-<p></p>임은진 교수님
+<p></p>
+  임은진 교수님
 
 ### 대학원생 1
 <image width="400" src="https://github.com/user-attachments/assets/cc3f2175-3e7d-47c9-904e-af7e9b9a7d69">
-<p></p>김경환님
+<p></p>
+  김경환님
 
 ### 대학원생2
 <image width="400" src="https://github.com/user-attachments/assets/1c60002b-ac51-41d6-ab79-0249ce9961ed">
-<p></p>신종윤님
+<p></p>
+  신종윤님
 
 ### 멘토링
 <image width="400" src="https://github.com/user-attachments/assets/15f03e91-0bdc-4c92-ae41-bd050ffb991c">
-<p></p>홍승환 멘토님
+<p></p>
+  홍승환 멘토님
 
 
 
@@ -65,7 +71,8 @@
 ### 정보통신처 탐방
 <image width="400" src="https://github.com/user-attachments/assets/63b36ae5-7adc-4df5-85e1-13df225bb397">
 
-## 가장 인상 깊었던 활동
+
+## 가장 인상 깊었던 활동 👀
 <img width="700" src="https://github.com/user-attachments/assets/62d75417-574f-4e06-a0f3-5b0649e74d6f">
 
 
