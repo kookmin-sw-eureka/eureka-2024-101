@@ -30,33 +30,27 @@
 ## 인터뷰 🙋‍♀️
 ### 보직 교수님
 <image width="400" src="https://github.com/user-attachments/assets/65f4288e-0b50-45a3-a9c4-7c551c660e00">
-<p></p>
-  이경용 교수님
+<br>이경용 교수님
   
 ### 3~4학년 담당 교수님
 <image width="400" src="https://github.com/user-attachments/assets/e0b3e67f-437d-4f36-bb46-f4022b0c4c57">
-<p></p>
-  박하명 교수님
+<br>박하명 교수님
   
 ### 교수님
 <image width="400" src="https://github.com/user-attachments/assets/c3b4b3ab-21ee-4e2b-b065-dabe438d7b5b">
-<p></p>
-  임은진 교수님
+<br>임은진 교수님
 
 ### 대학원생 1
 <image width="400" src="https://github.com/user-attachments/assets/cc3f2175-3e7d-47c9-904e-af7e9b9a7d69">
-<p></p>
-  김경환님
+<br>김경환님
 
 ### 대학원생2
 <image width="400" src="https://github.com/user-attachments/assets/1c60002b-ac51-41d6-ab79-0249ce9961ed">
-<p></p>
-  신종윤님
+<br>신종윤님
 
 ### 멘토링
 <image width="400" src="https://github.com/user-attachments/assets/15f03e91-0bdc-4c92-ae41-bd050ffb991c">
-<p></p>
-  홍승환 멘토님
+<br>홍승환 멘토님
 
 
 
