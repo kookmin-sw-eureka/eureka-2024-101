@@ -31,40 +31,49 @@
 
   
 ## 3~4학년 담당 교수님 - 박하명 교수님
-<image width="400" src="https://github.com/user-attachments/assets/e0b3e67f-437d-4f36-bb46-f4022b0c4c57">
+![image](https://github.com/user-attachments/assets/f0daf421-6747-4695-9c3b-201136914253)
+
 
 ## 교수님 - 임은진 교수님
-<image width="400" src="https://github.com/user-attachments/assets/c3b4b3ab-21ee-4e2b-b065-dabe438d7b5b">
+![image](https://github.com/user-attachments/assets/8f8ec5d3-f6fa-40c2-a245-86def32ff433)
+
 
 ## 대학원생 1 - 김경환님
-<image width="400" src="https://github.com/user-attachments/assets/cc3f2175-3e7d-47c9-904e-af7e9b9a7d69">
+![image](https://github.com/user-attachments/assets/ec90b057-3dd5-4980-bfea-7bf799e9faf4)
+
 
 
 ## 대학원생2 - 신종윤님
-<image width="400" src="https://github.com/user-attachments/assets/1c60002b-ac51-41d6-ab79-0249ce9961ed">
+![image](https://github.com/user-attachments/assets/e5723a7f-2ff8-4423-be91-ed31fc5312ae)
+
 
 ## 멘토링 - 홍승환 멘토님
-<image width="400" src="https://github.com/user-attachments/assets/15f03e91-0bdc-4c92-ae41-bd050ffb991c">
+![image](https://github.com/user-attachments/assets/3c05247f-6215-49a9-8499-921031eb631e)
+
 
 
 # 탐방 활동
 ## 행정실
-<image width="400" src="https://github.com/user-attachments/assets/78024887-b7df-4a08-9aee-5d3e509b2424">
+![image](https://github.com/user-attachments/assets/6a0db6a5-092b-4f2d-8960-1990237f247c)
+
 
 ## 학과 서비스 및 서버실
-<image width="400" src="https://github.com/user-attachments/assets/e8739c9d-4de2-4c1c-85e9-371cd72a8ed9">
+![image](https://github.com/user-attachments/assets/0ddfd1bb-d4f8-4a1d-918e-fd351fe77df3)
+
 
 ## 정보통신처 탐방
-<image width="400" src="https://github.com/user-attachments/assets/63b36ae5-7adc-4df5-85e1-13df225bb397">
+![image](https://github.com/user-attachments/assets/d8ea3b60-24f0-4668-8768-4f40e4cd2f13)
 
 
 ## 가장 인상 깊었던 활동 👀
-<img width="700" src="https://github.com/user-attachments/assets/62d75417-574f-4e06-a0f3-5b0649e74d6f">
+<img width="1089" alt="스크린샷 2024-12-05 오후 12 51 37" src="https://github.com/user-attachments/assets/92703515-8f7c-4c75-abb0-338abfe1e63f">
+
 
 
 # 소융대 및 학교에서 제공받을 수 있는 기회들
 ## GREAT 프로그램 🌟
-<image width="700" src="https://github.com/user-attachments/assets/d5318cb6-ffeb-4ce0-b005-df65ce0c9772">
+<img width="1080" alt="스크린샷 2024-12-05 오후 2 29 22" src="https://github.com/user-attachments/assets/08278c3f-4953-41db-9db8-60184172b564">
+
 
   
   
