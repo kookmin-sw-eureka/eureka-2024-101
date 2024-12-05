@@ -27,7 +27,8 @@
 
 # 인터뷰 활동
 ## 보직 교수님 - 이경용 교수님
-<image width="400" src="https://github.com/user-attachments/assets/65f4288e-0b50-45a3-a9c4-7c551c660e00">
+![image](https://github.com/user-attachments/assets/35c0f0b0-1137-48d0-a4cd-bdc06f7b45e9)
+
   
 ## 3~4학년 담당 교수님 - 박하명 교수님
 <image width="400" src="https://github.com/user-attachments/assets/e0b3e67f-437d-4f36-bb46-f4022b0c4c57">
