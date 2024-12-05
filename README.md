@@ -35,7 +35,7 @@
 <img width="918" alt="스크린샷 2024-12-05 오후 2 36 46" src="https://github.com/user-attachments/assets/053f9522-f81f-42f5-a5ec-72493821f457">
 
 
-## 멘토링 - 홍승환 멘토님
+**멘토링 - 홍승환 멘토님**
 ![KakaoTalk_Photo_2024-12-05-14-39-44](https://github.com/user-attachments/assets/210fa79c-c10c-4560-b366-862c8d6fae48)
 
 
@@ -43,7 +43,8 @@
 # 탐방 활동
 **순서대로  
 학과 서비스 및 서버실  
-정보통신처 탐방**
+정보통신처 탐방
+행정실**
 
 <img width="900" alt="스크린샷 2024-12-05 오후 2 42 13" src="https://github.com/user-attachments/assets/32ce1f65-046f-4c6b-aa5a-fd51d096b047">
 
