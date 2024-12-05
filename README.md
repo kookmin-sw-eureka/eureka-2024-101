@@ -3,9 +3,10 @@
 
 # 목차
 1. [팀 소개](#팀-소개)
-2. [활동 보고](#활동-보고)
-3. [소융대 및 학교에서 제공받을 수 있는 기회들](#소융대-및-학교에서-제공받을-수-있는-기회들)
-4. [느낀점](#느낀점)
+2. [인터뷰 활동](#인터뷰-활동)
+3. [탐방 활동](#탐방-활동)
+4. [소융대 및 학교에서 제공받을 수 있는 기회들](#소융대-및-학교에서-제공받을-수-있는-기회들)
+5. [느낀점](#느낀점)
 
 
 # 팀 소개
@@ -24,36 +25,28 @@
 - 전공 관련 공통 관심사 : 웹, 앱
 - 전공 외 공통 관심사 : 여행, 음악, 그림
 
-# 활동 보고
-## 인터뷰 🙋‍♀️
-## 보직 교수님
+# 인터뷰 활동
+## 보직 교수님 - 이경용 교수님
 <image width="400" src="https://github.com/user-attachments/assets/65f4288e-0b50-45a3-a9c4-7c551c660e00">
-<br>이경용 교수님
   
-## 3~4학년 담당 교수님
+## 3~4학년 담당 교수님 - 박하명 교수님
 <image width="400" src="https://github.com/user-attachments/assets/e0b3e67f-437d-4f36-bb46-f4022b0c4c57">
-<br>박하명 교수님
-  
-## 교수님
+
+## 교수님 - 임은진 교수님
 <image width="400" src="https://github.com/user-attachments/assets/c3b4b3ab-21ee-4e2b-b065-dabe438d7b5b">
-<br>임은진 교수님
 
-## 대학원생 1
+## 대학원생 1 - 김경환님
 <image width="400" src="https://github.com/user-attachments/assets/cc3f2175-3e7d-47c9-904e-af7e9b9a7d69">
-<br>김경환님
 
-## 대학원생2
+
+## 대학원생2 - 신종윤님
 <image width="400" src="https://github.com/user-attachments/assets/1c60002b-ac51-41d6-ab79-0249ce9961ed">
-<br>신종윤님
 
-## 멘토링
+## 멘토링 - 홍승환 멘토님
 <image width="400" src="https://github.com/user-attachments/assets/15f03e91-0bdc-4c92-ae41-bd050ffb991c">
-<br>홍승환 멘토님
 
 
-
-
-## 탐방 활동 🏃‍♀️‍➡️
+# 탐방 활동
 ## 행정실
 <image width="400" src="https://github.com/user-attachments/assets/78024887-b7df-4a08-9aee-5d3e509b2424">
 
@@ -66,8 +59,6 @@
 
 ## 가장 인상 깊었던 활동 👀
 <img width="700" src="https://github.com/user-attachments/assets/62d75417-574f-4e06-a0f3-5b0649e74d6f">
-
-
 
 
 # 소융대 및 학교에서 제공받을 수 있는 기회들
