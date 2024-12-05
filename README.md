@@ -26,43 +26,27 @@
 - 전공 외 공통 관심사 : 여행, 음악, 그림
 
 # 인터뷰 활동
-## 보직 교수님 - 이경용 교수님
-![image](https://github.com/user-attachments/assets/35c0f0b0-1137-48d0-a4cd-bdc06f7b45e9)
-
-  
-## 3~4학년 담당 교수님 - 박하명 교수님
-![image](https://github.com/user-attachments/assets/f0daf421-6747-4695-9c3b-201136914253)
-
-
-## 교수님 - 임은진 교수님
-![image](https://github.com/user-attachments/assets/8f8ec5d3-f6fa-40c2-a245-86def32ff433)
-
-
-## 대학원생 1 - 김경환님
-![image](https://github.com/user-attachments/assets/ec90b057-3dd5-4980-bfea-7bf799e9faf4)
-
-
-
-## 대학원생2 - 신종윤님
-![image](https://github.com/user-attachments/assets/e5723a7f-2ff8-4423-be91-ed31fc5312ae)
+**순서대로  
+보직 교수님 - 이경용 교수님  
+3~4학년 담당 교수님 - 박하명 교수님  
+교수님 - 임은진 교수님  
+대학원생 1 - 김경환님  
+대학원생2 - 신종윤님**
+<img width="918" alt="스크린샷 2024-12-05 오후 2 36 46" src="https://github.com/user-attachments/assets/053f9522-f81f-42f5-a5ec-72493821f457">
 
 
 ## 멘토링 - 홍승환 멘토님
-![image](https://github.com/user-attachments/assets/3c05247f-6215-49a9-8499-921031eb631e)
+![KakaoTalk_Photo_2024-12-05-14-39-44](https://github.com/user-attachments/assets/210fa79c-c10c-4560-b366-862c8d6fae48)
 
 
 
 # 탐방 활동
-## 행정실
-![image](https://github.com/user-attachments/assets/6a0db6a5-092b-4f2d-8960-1990237f247c)
+**순서대로  
+학과 서비스 및 서버실  
+정보통신처 탐방**
 
+<img width="900" alt="스크린샷 2024-12-05 오후 2 42 13" src="https://github.com/user-attachments/assets/32ce1f65-046f-4c6b-aa5a-fd51d096b047">
 
-## 학과 서비스 및 서버실
-![image](https://github.com/user-attachments/assets/0ddfd1bb-d4f8-4a1d-918e-fd351fe77df3)
-
-
-## 정보통신처 탐방
-![image](https://github.com/user-attachments/assets/d8ea3b60-24f0-4668-8768-4f40e4cd2f13)
 
 
 ## 가장 인상 깊었던 활동 👀
