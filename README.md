@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/54037dd7-4c1b-434c-990b-fb63f8808606)# 2024 유레카 프로젝트 01분반 01조 🍀
+# 2024 유레카 프로젝트 01분반 01조 🍀
 > See more, Listen more, Feel more
 
 # 목차
